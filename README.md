@@ -2,3 +2,4 @@
 ### Implementation of "Attention is all you need" paper
 ### English to Italian Translator
 [Original Video](https://www.youtube.com/watch?v=ISNdQcPhsts&t=177s)
+[Credit](https://www.youtube.com/@umarjamilai/videos)
