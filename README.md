@@ -11,8 +11,6 @@ This repository contains an implementation of a Transformer model from scratch u
 - Supports **greedy decoding** for inference.
 - Includes **model evaluation metrics** like BLEU, WER, and CER.
 
-## 📂 Project Structure
-
 ### Implementation of "Attention is all you need" paper
 ### English to German Translator
 [Original Video](https://www.youtube.com/watch?v=ISNdQcPhsts&t=177s)<br>
